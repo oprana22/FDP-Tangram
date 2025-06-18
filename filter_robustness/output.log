@@ -1,0 +1,97 @@
+nohup: ignoring input
+INFO:root:762 training genes are saved in `uns``training_genes` of both single cell and spatial Anndatas.
+INFO:root:762 overlapped genes are saved in `uns``overlap_genes` of both single cell and spatial Anndatas.
+INFO:root:uniform based density prior is calculated and saved in `obs``uniform_density` of the spatial Anndata.
+INFO:root:rna count based density prior is calculated and saved in `obs``rna_count_based_density` of the spatial Anndata.
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+INFO:root:Allocate tensors for mapping.
+INFO:root:Begin training with 762 genes and rna_count_based density_prior in constrained mode...
+INFO:root:Saving results..
+Executing Tangram iter 0
+Score: 0.653, VG reg: 0.151, KL reg: 0.086, Count reg: 2131.907, Lambda f reg: 2940.870
+Score: 0.842, VG reg: 0.196, KL reg: 0.002, Count reg: 3.403, Lambda f reg: 452.483
+Score: 0.846, VG reg: 0.200, KL reg: 0.002, Count reg: 0.879, Lambda f reg: 121.335
+Score: 0.847, VG reg: 0.201, KL reg: 0.002, Count reg: 0.089, Lambda f reg: 72.532
+Score: 0.847, VG reg: 0.201, KL reg: 0.002, Count reg: 0.066, Lambda f reg: 57.835
+Executing Tangram iter 1
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2124.121, Lambda f reg: 2949.090
+Score: 0.843, VG reg: 0.199, KL reg: 0.002, Count reg: 1.189, Lambda f reg: 448.442
+Score: 0.847, VG reg: 0.203, KL reg: 0.002, Count reg: 0.265, Lambda f reg: 123.825
+Score: 0.848, VG reg: 0.204, KL reg: 0.002, Count reg: 0.257, Lambda f reg: 74.826
+Score: 0.848, VG reg: 0.204, KL reg: 0.002, Count reg: 0.097, Lambda f reg: 59.030
+Executing Tangram iter 2
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2124.155, Lambda f reg: 2952.858
+Score: 0.842, VG reg: 0.197, KL reg: 0.002, Count reg: 0.105, Lambda f reg: 448.444
+Score: 0.847, VG reg: 0.202, KL reg: 0.002, Count reg: 0.179, Lambda f reg: 118.097
+Score: 0.847, VG reg: 0.202, KL reg: 0.002, Count reg: 0.188, Lambda f reg: 72.540
+Score: 0.848, VG reg: 0.203, KL reg: 0.002, Count reg: 0.010, Lambda f reg: 57.799
+Executing Tangram iter 3
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2112.687, Lambda f reg: 2941.321
+Score: 0.843, VG reg: 0.202, KL reg: 0.002, Count reg: 5.694, Lambda f reg: 444.670
+Score: 0.847, VG reg: 0.206, KL reg: 0.002, Count reg: 0.804, Lambda f reg: 121.262
+Score: 0.848, VG reg: 0.207, KL reg: 0.002, Count reg: 0.243, Lambda f reg: 77.183
+Score: 0.848, VG reg: 0.207, KL reg: 0.002, Count reg: 0.016, Lambda f reg: 59.852
+Executing Tangram iter 4
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2114.937, Lambda f reg: 2949.225
+Score: 0.842, VG reg: 0.199, KL reg: 0.002, Count reg: 2.169, Lambda f reg: 447.476
+Score: 0.846, VG reg: 0.203, KL reg: 0.002, Count reg: 0.125, Lambda f reg: 123.880
+Score: 0.847, VG reg: 0.204, KL reg: 0.002, Count reg: 0.014, Lambda f reg: 76.631
+Score: 0.847, VG reg: 0.204, KL reg: 0.002, Count reg: 0.189, Lambda f reg: 61.063
+Executing Tangram iter 5
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2120.951, Lambda f reg: 2939.090
+Score: 0.842, VG reg: 0.200, KL reg: 0.002, Count reg: 2.824, Lambda f reg: 438.773
+Score: 0.847, VG reg: 0.204, KL reg: 0.002, Count reg: 0.301, Lambda f reg: 119.236
+Score: 0.848, VG reg: 0.205, KL reg: 0.002, Count reg: 0.237, Lambda f reg: 77.636
+Score: 0.848, VG reg: 0.205, KL reg: 0.002, Count reg: 0.037, Lambda f reg: 63.033
+Executing Tangram iter 6
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2139.358, Lambda f reg: 2945.252
+Score: 0.842, VG reg: 0.201, KL reg: 0.002, Count reg: 3.674, Lambda f reg: 450.113
+Score: 0.847, VG reg: 0.205, KL reg: 0.002, Count reg: 0.075, Lambda f reg: 121.536
+Score: 0.848, VG reg: 0.206, KL reg: 0.002, Count reg: 0.478, Lambda f reg: 75.005
+Score: 0.848, VG reg: 0.206, KL reg: 0.002, Count reg: 0.276, Lambda f reg: 58.345
+Executing Tangram iter 7
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2099.901, Lambda f reg: 2932.166
+Score: 0.843, VG reg: 0.200, KL reg: 0.002, Count reg: 2.595, Lambda f reg: 440.879
+Score: 0.847, VG reg: 0.204, KL reg: 0.002, Count reg: 0.087, Lambda f reg: 119.899
+Score: 0.848, VG reg: 0.204, KL reg: 0.002, Count reg: 0.451, Lambda f reg: 71.166
+Score: 0.848, VG reg: 0.205, KL reg: 0.002, Count reg: 0.143, Lambda f reg: 57.253
+Executing Tangram iter 8
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2138.309, Lambda f reg: 2938.449
+Score: 0.842, VG reg: 0.198, KL reg: 0.002, Count reg: 2.868, Lambda f reg: 448.916
+Score: 0.846, VG reg: 0.202, KL reg: 0.002, Count reg: 0.176, Lambda f reg: 123.105
+Score: 0.847, VG reg: 0.202, KL reg: 0.002, Count reg: 0.600, Lambda f reg: 75.354
+Score: 0.847, VG reg: 0.202, KL reg: 0.002, Count reg: 0.184, Lambda f reg: 61.781
+Executing Tangram iter 9
+Score: 0.653, VG reg: 0.152, KL reg: 0.086, Count reg: 2133.612, Lambda f reg: 2947.404
+Score: 0.842, VG reg: 0.198, KL reg: 0.002, Count reg: 2.791, Lambda f reg: 448.908
+Score: 0.846, VG reg: 0.202, KL reg: 0.002, Count reg: 0.247, Lambda f reg: 119.231
+Score: 0.847, VG reg: 0.202, KL reg: 0.002, Count reg: 0.100, Lambda f reg: 71.187
+Score: 0.847, VG reg: 0.203, KL reg: 0.002, Count reg: 0.155, Lambda f reg: 55.726
+Similarity metrics written to: results/similarity_metrics.txt
+Filter results written to: results/filter_results.csv

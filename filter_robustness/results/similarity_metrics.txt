@@ -1,0 +1,4 @@
+=== Similarity Metrics Report ===
+Mean Cosine Similarity (off-diagonal): 0.4996
+Mean Euclidean Distance (off-diagonal): 15.7804
+Mean Squared Error (MSE to mean row): 0.2243
